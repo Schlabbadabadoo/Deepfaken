@@ -56,7 +56,7 @@ PlayerMOddertab:AddSlider({
     ValueName = "Walkspeed",
     Callback = function(Value)
         WalkSpeedValue = Value
-        print("Walkspeed changed by Schlubb hub (1 anti cheat strike added dumbass)")
+        print("Detected Schlubb hub speedhack (anti cheat activated have fun being banned dumbass)")
     end
 })
 
